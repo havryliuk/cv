@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Summary
+## 💼 Summary  
 
 Experienced **Lead Software Engineer** with over **15 years in IT**, passionate about building software that solves real problems. 
 Skilled in backend web application development and data engineering, CI/CD processes and test automation, 
