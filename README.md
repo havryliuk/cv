@@ -45,6 +45,7 @@ I love building things, collaborating with talented people, and constantly learn
 ---
 
 ## 🎯 Professional Experience
+*(a few past significant projects)*
 
 **EPAM Systems** — *Data Engineer*  
 *July 2024 till now*
