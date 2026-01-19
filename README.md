@@ -14,6 +14,7 @@ Experienced **Lead Software Engineer** with over **15 years in IT**, passionate 
 Skilled in backend web application development and data engineering, CI/CD processes and test automation, 
 and leading cross-functional teams to drive projects from idea to production.  
 I love building things, collaborating with talented people, and constantly learning new technologies
+
 ---
 
 ## ⚙️ Technical Skills
