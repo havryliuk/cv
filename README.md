@@ -92,6 +92,7 @@ generates sentences to practice translation with LLM.
 Built with Python, React, AWS Lambda, Cognito, S3, integrating with OpenAI API.  
 Project page at GitHub: [daily-dragon](https://github.com/daily-dragon/daily-dragon)  
 Hosted on AWS and available at [daily-dragon.havryliuk.com](https://daily-dragon.havryliuk.com)
+
 ---
 
 ## 🌱 Personal Interests
