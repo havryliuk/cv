@@ -27,7 +27,7 @@ I love building things, collaborating with talented people, and constantly learn
 - **Software Design** — System architecture, OOP principles, design patterns
 - **Python (Web)** — Experience with self-built web projects and automation scripts
 - **Front-End** — React (self-taught, amateur-level projects)
-- **Testing & Automation** — Manual testing, building and maintaining custom test automation frameworks, integrating automated tests into CI/CD pipelines
+- **Testing & Automation** — Building and maintaining custom test automation frameworks, integrating automated tests into CI/CD pipelines, manual testing
 
 ### Leadership & Process
 
@@ -70,7 +70,7 @@ I love building things, collaborating with talented people, and constantly learn
 - Supported less experienced software engineers
 - Established development workflow based on best practices
 - Effectively communicated across different parts of the team: software and database developers, test engineers, product
-  owner and architect
+  owner and architect  
   *Tools:* Java, SpringBoot, GraphQL, Maven, Snowflake
 
 **EPAM Systems** - *Java Software Engineer and Team Lead*  
